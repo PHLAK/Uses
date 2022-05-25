@@ -10,12 +10,12 @@ My primary workhorse is my laptop, a [Lenovo X1 Carbon (Gen 9)](https://www.leno
 
 ### Specs
 
-|        |                           |
-| ------ | ------------------------- |
-| CPU    | Intel i7-1185G7 @ 3.0 GHz |
-| RAM    | 32 GB LPDDR4 @ 4266MHz    |
-| Disk   | 512 GB NVMe SSD           |
-| Screen | 14.0" UHD+ (3840 x 2400)  |
+|            |                           |
+| ---------- | ------------------------- |
+| **CPU**    | Intel i7-1185G7 @ 3.0 GHz |
+| **RAM**    | 32 GB LPDDR4 @ 4266MHz    |
+| **Disk**   | 512 GB NVMe SSD           |
+| **Screen** | 14.0" UHD+ (3840 x 2400)  |
 
 Operating System
 ----------------
