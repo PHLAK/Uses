@@ -62,6 +62,7 @@ Workspace
 When working from home I dock my laptop at my desk.
 
   - [Autonomous SmartDesk Core](https://www.autonomous.ai/standing-desks/smartdesk-2-home)
+  - [Autonomous ErgoChair Pro](https://www.autonomous.ai/office-chairs/ergonomic-chair)
   - [Caldigit Element Hub](https://www.caldigit.com/thunderbolt-4-element-hub/)
   - [Dell Ultrasharp U2718Q 27-Inch 4K IPS Monitor](https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor)
   - [Microsoft Surface Keyboard (Wireless)](https://www.microsoft.com/en-us/d/surface-keyboard/8r3rqvvflp4k)
