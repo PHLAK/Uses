@@ -3,8 +3,8 @@ Uses
 
 Occasionally I'm asked what tools I use regularly so I've put together this "uses" document to list them out in detail.
 
-Laptop
-------
+Hardware
+--------
 
 My primary workhorse is my laptop, a [Lenovo X1 Carbon (Gen 9)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen9/22tp2x1x1c9). I take it with me everywhere and connect it to my dock for a desk setup when I'm at home.
 
