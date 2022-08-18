@@ -41,13 +41,43 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 Editor
 ------
 
-For software development I use [Visual Studio Code](https://code.visualstudio.com) with the [Spacegray VSCode theme](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) and a minimal UI to help me keep my focus on the code.
+For software development I use [Visual Studio Code](https://code.visualstudio.com) with the [Spacegray VSCode](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) theme and the [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) extension with a minimal UI to help me maintain focus on the code.
 
 ![Visual Studio Code](images/visual-studio-code.png)
 
 ### VS Code Extensions
 
-  - Coming soon
+The following are some (but not all) of the extensions I use on a daily basis.
+
+##### General
+
+  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+  - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+  - [new-file](https://marketplace.visualstudio.com/items?itemName=fnando.new-file)
+  - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+  - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)	
+  - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
+##### PHP
+
+  - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+  - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
+  - [PHP Add Property](https://marketplace.visualstudio.com/items?itemName=kotfire.php-add-property)
+  - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
+  - [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense)
+  - [laravel-blade](https://marketplace.visualstudio.com/items?itemName=cjhowe7.laravel-blade)
+  - [Simple PHP CS Fixer 3](https://marketplace.visualstudio.com/items?itemName=PHLAK.simple-php-cs-fixer-3)
+  - [PHP Static Analysis](https://marketplace.visualstudio.com/items?itemName=breezelin.phpstan)
+  - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
+  - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs)
+
+#### JavaScript
+
+  - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 Other Software
 --------------
