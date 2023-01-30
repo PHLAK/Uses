@@ -53,6 +53,7 @@ The following are some (but not all) of the extensions I use on a daily basis.
 
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
   - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [Better Folding](https://marketplace.visualstudio.com/items?itemName=MohammadBaqer.better-folding)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
   - [new-file](https://marketplace.visualstudio.com/items?itemName=fnando.new-file)
