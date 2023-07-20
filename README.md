@@ -33,7 +33,6 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
   - [Notification Banner Reloaded](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/) - Configure notification banner position
   - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Replaces Alt-Tab with a cover flow animation
   - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up Gnome Shell animations
-  - [Sound Output & Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Adds a list of sound input/output devices to the status menu
   - [Arch Linux Updates Indicator](https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/)
   - [Fullscreen Hot Corner](https://extensions.gnome.org/extension/1562/fullscreen-hot-corner/)
   - [Window is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/)
