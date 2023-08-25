@@ -104,5 +104,5 @@ On the Go
 
 While on the go I use a [GORUCK Echo](https://www.goruck.com/products/echo) 16L backpack to transport my laptop and peripherals.
 
-  - [Soundcore Liberty Air 2 Pro Wirelss Earbuds](https://us.soundcore.com/collections/true-wireless/products/a3951011)
+  - [Soundcore Liberty 4 NC Wirelss Earbuds](https://us.soundcore.com/products/liberty-4-nc-a3947z11)
   - [Logitech MX Anywhere 3 Wireless Mouse](https://www.logitech.com/en-us/products/mice/mx-anywhere-3.910-005833.html)
