@@ -40,7 +40,7 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 Editor
 ------
 
-For software development I use [Visual Studio Code](https://code.visualstudio.com) with the [Spacegray VSCode](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) theme and the [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) extension with a minimal UI to help me maintain focus on the code.
+For software development I use the Arch Linux open source build of [Visual Studio Code](https://code.visualstudio.com) with the [Spacegray VSCode](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack with a minimal UI to help me maintain focus on the code.
 
 ![Visual Studio Code](images/visual-studio-code.png)
 
@@ -56,7 +56,6 @@ The following are some (but not all) of the extensions I use on a daily basis.
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
   - [new-file](https://marketplace.visualstudio.com/items?itemName=fnando.new-file)
-  - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
   - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)	
   - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
@@ -64,8 +63,6 @@ The following are some (but not all) of the extensions I use on a daily basis.
 
   - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
   - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
-  - [PHP Add Property](https://marketplace.visualstudio.com/items?itemName=kotfire.php-add-property)
-  - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
   - [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense)
   - [laravel-blade](https://marketplace.visualstudio.com/items?itemName=cjhowe7.laravel-blade)
   - [Simple PHP CS Fixer 3](https://marketplace.visualstudio.com/items?itemName=PHLAK.simple-php-cs-fixer-3)
