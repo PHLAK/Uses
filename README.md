@@ -6,16 +6,16 @@ Occasionally I'm asked what tools I use regularly so I've put together this "use
 Hardware
 --------
 
-My primary workhorse is my laptop, a [Lenovo X1 Carbon (Gen 9)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen9/22tp2x1x1c9). I take it with me everywhere and connect it to my dock for a desk setup when I'm at home.
+My primary workhorse is my laptop, a [Framework 13 (AMD)](https://frame.work/products/laptop-diy-13-gen-amd/). I take it with me everywhere and connect it to my dock for a desk setup when I'm at home.
 
 ### Specs
 
-|            |                           |
-| ---------- | ------------------------- |
-| **CPU**    | Intel i7-1185G7 @ 3.0 GHz |
-| **RAM**    | 32 GB LPDDR4 @ 4266MHz    |
-| **Disk**   | 512 GB NVMe SSD           |
-| **Screen** | 14.0" UHD+ (3840 x 2400)  |
+|            |                              |
+| ---------- | ---------------------------- |
+| **CPU**    | AMD Ryzen 7 7840U @ 3.3 GHz  |
+| **RAM**    | 2 × 16 GB DDR5 @ 5600 MT/s   |
+| **Disk**   | WD_BLACK SN850X 2TB NVMe SSD |
+| **Screen** | 13.5" 2880 × 1920 120Hz      |
 
 Operating System
 ----------------
