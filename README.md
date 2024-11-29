@@ -24,17 +24,16 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 
 ![Desktop](images/desktop.png)
   
-### GNOME Extensions
+### Apps and Extensions
 
+  - [Ulauncher](https://ulauncher.io/) - Application launcher## MMiscellaneous
   - [ddterm](https://extensions.gnome.org/extension/3780/ddterm/) - Drop down terminal
-  - [Switcher](https://extensions.gnome.org/extension/973/switcher/) - Switch windows or launch applications quickly
   - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A floating dock for Gnome Shell
   - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) - Autohide the top bar for maximum screen real estate
   - [Notification Banner Reloaded](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/) - Configure notification banner position
   - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Replaces Alt-Tab with a cover flow animation
   - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up Gnome Shell animations
   - [Arch Linux Updates Indicator](https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/)
-  - [Fullscreen Hot Corner](https://extensions.gnome.org/extension/1562/fullscreen-hot-corner/)
   - [Window is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/)
 
 Editor
