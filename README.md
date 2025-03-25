@@ -23,14 +23,13 @@ Operating System
 I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](https://www.gnome.org) desktop environment.
 
 ![Desktop](images/desktop.png)
-  
+
 ### Apps and Extensions
 
   - [Ulauncher](https://ulauncher.io/) - Application launcher## MMiscellaneous
   - [ddterm](https://extensions.gnome.org/extension/3780/ddterm/) - Drop down terminal
   - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A floating dock for Gnome Shell
   - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) - Autohide the top bar for maximum screen real estate
-  - [Notification Banner Reloaded](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/) - Configure notification banner position
   - [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) - Replaces Alt-Tab with a cover flow animation
   - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up Gnome Shell animations
   - [Arch Linux Updates Indicator](https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/)
@@ -39,41 +38,9 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 Editor
 ------
 
-For software development I use the Arch Linux open source build of [Visual Studio Code](https://code.visualstudio.com) with the [Spacegray VSCode](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) theme and the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon pack with a minimal UI to help me maintain focus on the code.
+For software development I use the [Zed code editor](https://zed.dev/) with the [Base16 Ocean](https://github.com/bswinnerton/base16-zed) theme. Zed comes with a minimal UI to help me maintain focus on the code.
 
-![Visual Studio Code](images/visual-studio-code.png)
-
-### VS Code Extensions
-
-The following are some (but not all) of the extensions I use on a daily basis.
-
-##### General
-
-  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-  - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-  - [Better Folding](https://marketplace.visualstudio.com/items?itemName=MohammadBaqer.better-folding)
-  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-  - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-  - [new-file](https://marketplace.visualstudio.com/items?itemName=fnando.new-file)
-  - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)	
-  - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
-
-##### PHP
-
-  - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-  - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
-  - [laravel intellisense](https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense)
-  - [laravel-blade](https://marketplace.visualstudio.com/items?itemName=cjhowe7.laravel-blade)
-  - [Simple PHP CS Fixer 3](https://marketplace.visualstudio.com/items?itemName=PHLAK.simple-php-cs-fixer-3)
-  - [PHP Static Analysis](https://marketplace.visualstudio.com/items?itemName=breezelin.phpstan)
-  - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
-  - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs)
-
-#### JavaScript
-
-  - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+![Zed](images/zed.png)
 
 Other Software
 --------------
