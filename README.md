@@ -26,7 +26,7 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 
 ### Apps and Extensions
 
-  - [Ulauncher](https://ulauncher.io/) - Application launcher## MMiscellaneous
+  - [Ulauncher](https://ulauncher.io/) - Application launcher
   - [ddterm](https://extensions.gnome.org/extension/3780/ddterm/) - Drop down terminal
   - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A floating dock for Gnome Shell
   - [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) - Autohide the top bar for maximum screen real estate
