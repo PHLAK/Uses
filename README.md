@@ -6,7 +6,7 @@ Occasionally I'm asked what tools I use regularly so I've put together this "use
 Hardware
 --------
 
-My primary workhorse is my laptop, a [Framework 13 (AMD)](https://frame.work/products/laptop-diy-13-gen-amd/). I take it with me everywhere and connect it to my dock for a desk setup when I'm at home.
+My primary workhorse is my laptop, a [Framework 13 (AMD)](https://frame.work/products/laptop-diy-13-gen-amd/). I take it with me everywhere and dock it at my desk for a desktop setup while working from home.
 
 ### Specs
 
@@ -38,7 +38,7 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
 Editor
 ------
 
-For software development I use the [Zed code editor](https://zed.dev/) with the [Base16 Ocean](https://github.com/bswinnerton/base16-zed) theme. Zed comes with a minimal UI to help me maintain focus on the code.
+For software development I use the [Zed code editor](https://zed.dev/) with the [Catppuccin Frappé](https://github.com/catppuccin/zed) theme and [Catppuccin Icons](https://github.com/catppuccin/zed-icons). Zed comes with a minimal UI to help me maintain focus on the code.
 
 ![Zed](images/zed.png)
 
@@ -56,8 +56,7 @@ When working from home I dock my laptop at my desk.
 
   - [Autonomous SmartDesk Core](https://www.autonomous.ai/standing-desks/smartdesk-2-home)
   - [Autonomous ErgoChair Pro](https://www.autonomous.ai/office-chairs/ergonomic-chair)
-  - [Caldigit Element Hub](https://www.caldigit.com/thunderbolt-4-element-hub/)
-  - [Dell Ultrasharp U2718Q 27-Inch 4K IPS Monitor](https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor)
+  - [Dell UltraSharp 27-Inch 4K IPS Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/apd/210-bqhr/monitors-monitor-accessories)
   - [Microsoft Surface Keyboard (Wireless)](https://www.microsoft.com/en-us/d/surface-keyboard/8r3rqvvflp4k)
   - [Logitech G703 Mouse](https://www.logitechg.com/en-us/products/gaming-mice/g703-wireless-gaming-mouse.910-005091.html) + [Powerplay Wireless Charging Mouse Pad](https://www.logitechg.com/en-us/products/gaming-mouse-pads/powerplay-wireless-charging.943-000109.html)
   - [Monoprice DT-4BT 60-Watt Desktop Speakers](https://www.monoprice.com/product?p_id=36572)
