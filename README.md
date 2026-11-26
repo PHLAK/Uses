@@ -35,6 +35,10 @@ I use [Arch Linux](https://archlinux.org) as my daily driver with the [GNOME](ht
   - [Arch Linux Updates Indicator](https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/)
   - [Window is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/)
 
+### Dotfiles
+
+My shell configuraiton can be found in my [dotfiles repository](https://github.com/phlak/dotfiles).
+
 Editor
 ------
 
